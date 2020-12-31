@@ -1,0 +1,3 @@
+# simple-quiz
+it is simple quiz using basics of python...
+it is made by using general if/else statemets
